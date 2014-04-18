@@ -1,6 +1,6 @@
 #content {
-	width: 700px;
-	height: 700px;
+	width: 525px;
+	height: 525px;
 	margin-top: 75px;
 }
 
@@ -12,8 +12,8 @@ ul {
 li {
 	cursor: pointer;
 	list-style-type: none;
-	width: 100px;
-	height: 100px;
+	width: 75px;
+	height: 75px;
 	background-color: green;
 }
 
